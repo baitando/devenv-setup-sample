@@ -1,0 +1,6 @@
+---
+- name: Install ubuntu-desktop
+  apt:
+    pkg: ubuntu-desktop
+    state: present
+    update_cache: yes

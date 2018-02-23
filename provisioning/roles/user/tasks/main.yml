@@ -1,0 +1,6 @@
+---
+- name: Add personal user
+  user:
+    name: developer
+    password: $6$7t98MX2fDZ$9GC3GX6RaymC/jEyK5LP.F.hQLirmQFN3Z82T6P4AwEGKueBNlJnB3wMxWaiXpiS95UQlz6sBBoe4W9ZwKK3A1
+    group: sudo
