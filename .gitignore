@@ -1,0 +1,6 @@
+.vagrant/
+provisioning/roles/docker/
+provisioning/roles/git/
+provisioning/roles/intellij-idea/
+provisioning/roles/maven/
+provisioning/roles/oracle-jdk/
